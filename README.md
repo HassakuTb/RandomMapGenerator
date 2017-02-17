@@ -1,2 +1,2 @@
 # RandomMapGenerator
-Generate natural map at random
+Generate natural map at random based on parline noise.
